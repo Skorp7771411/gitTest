@@ -1,0 +1,17 @@
+body{
+	font-family:Verdana;
+    font-size:13px;
+    background-color: grey;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+.git{
+    color:red;
+    background-color: green;
+    margin:10px;
+    font-size: large;
+}
